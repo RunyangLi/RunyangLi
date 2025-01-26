@@ -2,6 +2,9 @@ Hi, This is Runyang Li
 
 Currently focus on Robot Learning and Tactile Sensor
 
+Work with Prof.Huanbo Sun at Peking University
+https://www.coe.pku.edu.cn/teaching/yongforeign/12973.html
+
 Previously works on Truss-lattice structure design and Level Set Method
 
 Work with Prof.Yan Zhang at Wuhan University of Science and Technology
