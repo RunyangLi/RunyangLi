@@ -2,8 +2,7 @@
 
 Currenly focus on Physical Intelligence
 
-Always focus on basketball, cooking and hiking
-
+Always focus on basketball, climbing and hiking
 
 
 
