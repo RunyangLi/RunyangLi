@@ -1,6 +1,8 @@
 :tada::tada::tada: Hi, This is Runyang Li
 
-Currenly focus on Physical Intelligence
+Ph.D in Mechanical Engineering at Arizona State University
+
+Currenly focus on Physical Intelligence and differential co-design
 
 Always focus on basketball, climbing and hiking
 
