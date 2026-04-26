@@ -17,7 +17,7 @@ I am open with coorlaboration on topics:
 (2) Theory of Topology Optimization: How to get global/functional optimal solution under non-convex optimization framework
 
 
-(3)Reliable computation tools for real world application: Bistable strutcure, Soft acuator, Origami
+(3) Reliable computation tools for real world application: Bistable strutcure, Soft acuator, Origami
 
 
 You can connect me by: runyangl@asu.edu, I am welcome with collaboration
