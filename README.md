@@ -3,7 +3,7 @@
 Currenly focus on Topology Optimization and Physical informed Machine Learning
 
 
-I am focusing on topics: 
+I am interested in topics: 
 
 
 (1) Data driven Metamaterial/Material system inverse design: 
