@@ -2,7 +2,6 @@
 
 Currenly focus on Topology Optimization and Physical informed Machine Learning
 
-Always focus on basketball, climbing and hiking
 
 I am open with coorlaboration on topics: 
 
