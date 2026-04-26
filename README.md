@@ -5,6 +5,8 @@ Currenly focus on Topology Optimization and Physical informed Machine Learning
 Always focus on basketball, climbing and hiking
 
 I am open with coorlaboration on topics: 
+
+
 (1) Data driven Metamaterial/Material system inverse design: 
 1. Geometry, mechanics annd material property coupled representation; 2. How to construct reliable machine learning systems that understand physics
 
