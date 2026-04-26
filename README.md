@@ -8,7 +8,7 @@ I am open with coorlaboration on topics:
 
 
 (1) Data driven Metamaterial/Material system inverse design: 
-1. Find geometry, mechanics annd material property coupled representation;
+1. Find geometry, physics and material property coupled representation;
 
 
 2. Construct reliable machine learning systems that understand physics and geometry
