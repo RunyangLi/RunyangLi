@@ -7,7 +7,7 @@ I am interested in topics:
 
 
 (1) Data driven Metamaterial/Material system inverse design: 
-1. Build geometry, physics and material property coupled representative framework;
+1. Build geometry, physics and material property coupled representation framework;
 
 
 2. Construct reliable machine learning systems that understand physics and geometry
