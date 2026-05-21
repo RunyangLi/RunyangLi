@@ -16,7 +16,7 @@ I am interested in topics:
 (2) Theory of Topology Optimization: How to get global/functional optimal solution under non-convex optimization framework
 
 
-(3) Reliable computation tools for real world application: Bistable strutcure, Soft acuator, Origami, Differential simulation
+(3) Reliable computation tools for real world application: Differential simulation for robotics, Contact model for deformable objects (E.g Tactile simulation, Contact rich solver)
 
 
 You can connect: runyangl@asu.edu, I am welcome with collaboration and any discussion
