@@ -6,7 +6,7 @@ Currenly focus on Topology Optimization and Physical informed Machine Learning
 I am interested in topics: 
 
 
-(1) Data driven Metamaterial/Material system inverse design: 
+(1) Data driven inverse design: 
 1. Build geometry, physics and material property coupled representation framework;
 
 
