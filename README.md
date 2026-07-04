@@ -2,23 +2,6 @@
 
 Currenly focus on Topology Optimization and Physical informed Machine Learning
 
-
-I am interested in topics: 
-
-
-(1) Data driven inverse design: 
-1. Build geometry, physics and material property coupled representation framework;
-
-
-2. Construct reliable machine learning systems that understand physics and geometry
-
-
-(2) Theory of Topology Optimization: How to get global/functional optimal solution under non-convex optimization framework
-
-
-(3) Reliable computation tools for real world application: Differential simulation for robotics, Contact model for deformable objects (E.g Tactile simulation, Contact rich solver)
-
-
-You can connect: runyangl@asu.edu, I am welcome with collaboration and any discussion
+Always focus on Hiking/Basketball/Climbing/Eating/Hanging out/My friends
 
 
