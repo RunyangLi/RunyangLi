@@ -1,7 +1,6 @@
 :tada::tada::tada: Hi, This is Runyang Li
 
-Currenly focus on Topology Optimization and Physical informed Machine Learning
+Works on Computational design
+Currently focus on Inverse design and Topology Optimization 
 
-Always focus on Hiking/Basketball/Climbing/Eating/Hanging out/My friends
-
-
+Always focus on Hiking/Basketball/Climbing/Eating/Hanging out
